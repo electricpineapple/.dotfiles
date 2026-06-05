@@ -1,6 +1,6 @@
 #!/bin/bash
 
-brew install neovim tmux fzf starship tmuxp
+brew install neovim tmux fzf starship tmuxp git-delta
 
 brew install --cask font-meslo-lg-nerd-font
 
