@@ -1,4 +1,5 @@
 session_name: default-dev-setup
+start_directory: "~/${START_DIR_TMUXP}"
 windows:
   - window_name: git
   - window_name: build
